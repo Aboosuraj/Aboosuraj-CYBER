@@ -1,0 +1,36 @@
+{
+  "name": "aboosuraj-cyber",
+  "version": "1.0.0",
+  "description": "<div # Aboosuraj-CYBER style=\" AK media technologies    <display: flex; we have been in  sci-tech era 12345678",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aboosuraj/Aboosuraj-CYBER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Aboosuraj/Aboosuraj-CYBER/issues"
+  },
+  "homepage": "https://github.com/Aboosuraj/Aboosuraj-CYBER#readme",
+  "dependencies": {
+    "lucide-react": "^1.61.0",
+    "next": "^16.4.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "resend": "^6.34.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
